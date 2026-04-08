@@ -12,11 +12,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 # 📊 GitHub Stats:
-![Arun's Stats](https://github-readme-stats.vercel.app/api?username=Arun07-official&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Arun's Stats](https://github-readme-stats.vercel.app/api?username=Arun07-official&show_icons=true&theme=dark)
 
 ![Arun's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arun07-official&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun07-official&theme=dark&layout=compact&hide_border=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun07-official&theme=dark&layout=compact&hide_border=false&count_private=true).
 ---
 [![](https://visitcount.itsvg.in/api?id=Arun07-official&icon=0&color=0)](https://visitcount.itsvg.in)
 
